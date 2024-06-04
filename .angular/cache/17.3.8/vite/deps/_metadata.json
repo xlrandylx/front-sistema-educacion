@@ -1,52 +1,58 @@
 {
-  "hash": "dafd510f",
-  "configHash": "51324093",
+  "hash": "8850a936",
+  "configHash": "fdb7ea7a",
   "lockfileHash": "2375d2ed",
-  "browserHash": "66cad740",
+  "browserHash": "ca4360c7",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "b871225f",
+      "fileHash": "681d95a5",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "2f3fb7f9",
+      "fileHash": "15776627",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "43f4bf3a",
+      "fileHash": "d9eb6e0f",
       "needsInterop": false
     },
     "primeng/button": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-button.mjs",
       "file": "primeng_button.js",
-      "fileHash": "bb064a39",
+      "fileHash": "dc0a2cbb",
       "needsInterop": false
     },
     "primeng/inputtext": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-inputtext.mjs",
       "file": "primeng_inputtext.js",
-      "fileHash": "647272bf",
+      "fileHash": "0877018a",
       "needsInterop": false
     },
     "primeng/menubar": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-menubar.mjs",
       "file": "primeng_menubar.js",
-      "fileHash": "2d1304b5",
+      "fileHash": "71513101",
+      "needsInterop": false
+    },
+    "primeng/api": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-api.mjs",
+      "file": "primeng_api.js",
+      "fileHash": "dca8a54e",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-UXS656NS": {
-      "file": "chunk-UXS656NS.js"
+    "chunk-6DSGOYER": {
+      "file": "chunk-6DSGOYER.js"
     },
-    "chunk-KVFVZLNE": {
-      "file": "chunk-KVFVZLNE.js"
+    "chunk-54NYK3MT": {
+      "file": "chunk-54NYK3MT.js"
     },
     "chunk-7UW223BW": {
       "file": "chunk-7UW223BW.js"

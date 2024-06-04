@@ -16,48 +16,50 @@ export class MenuBarComponent implements OnInit {
   ngOnInit(): void {
     this.items = [
       {
-          label: 'Home',
-          icon: 'pi pi-home'
-      },
-      {
-          label: 'Features',
-          icon: 'pi pi-star'
-      },
-      {
-          label: 'Projects',
-          icon: 'pi pi-search',
+          label: 'Personas',
+          icon: 'pi pi-users',
           items: [
               {
-                  label: 'Components',
-                  icon: 'pi pi-bolt'
+                 label: 'Alumnos',
+                 icon: 'pi pi-user'
               },
               {
-                  label: 'Blocks',
-                  icon: 'pi pi-server'
-              },
-              {
-                  label: 'UI Kit',
-                  icon: 'pi pi-pencil'
-              },
-              {
-                  label: 'Templates',
-                  icon: 'pi pi-palette',
-                  items: [
-                      {
-                          label: 'Apollo',
-                          icon: 'pi pi-palette'
-                      },
-                      {
-                          label: 'Ultima',
-                          icon: 'pi pi-palette'
-                      }
-                  ]
+                label: 'Docentes',
+                icon: 'pi pi-user'
               }
           ]
       },
       {
-          label: 'Contact',
-          icon: 'pi pi-envelope'
+          label: 'Institucion',
+          icon: 'pi pi-graduation-cap',
+          items: [
+            {
+               label: 'Sedes',
+               icon: 'pi pi-building'
+            },
+            {
+              label: 'Cursos',
+              icon: 'pi pi-book'
+            },
+            {
+                label: 'Clases',
+                icon: 'pi pi-briefcase'
+            }
+        ]
+      },
+      {
+          label: 'Administrador',
+          icon: 'pi pi-lock',
+          items: [
+              {
+                  label: 'Usuarios',
+                  icon: 'pi pi-user'
+              },
+              {
+                  label: 'Bitacora',
+                  icon: 'pi pi-server'
+              }
+          ]
       }
   ]
   }

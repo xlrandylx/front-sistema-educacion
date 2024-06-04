@@ -1,7 +1,7 @@
 import {
   ObjectUtils,
   PrimeNGConfig
-} from "./chunk-KVFVZLNE.js";
+} from "./chunk-54NYK3MT.js";
 import {
   DOCUMENT,
   isPlatformBrowser
@@ -986,4 +986,4 @@ export {
   Ripple,
   RippleModule
 };
-//# sourceMappingURL=chunk-UXS656NS.js.map
+//# sourceMappingURL=chunk-6DSGOYER.js.map

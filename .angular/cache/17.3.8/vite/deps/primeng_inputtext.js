@@ -1,6 +1,6 @@
 import {
   PrimeNGConfig
-} from "./chunk-KVFVZLNE.js";
+} from "./chunk-54NYK3MT.js";
 import {
   CommonModule,
   getDOM
