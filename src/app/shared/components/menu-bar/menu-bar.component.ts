@@ -21,11 +21,13 @@ export class MenuBarComponent implements OnInit {
           items: [
               {
                  label: 'Alumnos',
-                 icon: 'pi pi-user'
+                 icon: 'pi pi-user',
+                 routerLink: '/principal/alumnos'
               },
               {
                 label: 'Docentes',
-                icon: 'pi pi-user'
+                icon: 'pi pi-user',
+                routerLink: '/principal/docentes'
               }
           ]
       },
