@@ -1,10 +1,10 @@
 import {
   PrimeNGConfig
-} from "./chunk-5D6C2J2T.js";
+} from "./chunk-KVFVZLNE.js";
 import {
   CommonModule,
   getDOM
-} from "./chunk-VDT3MPH5.js";
+} from "./chunk-B6W5VYHK.js";
 import {
   ChangeDetectorRef,
   Directive,
@@ -49,7 +49,7 @@ import {
   ɵɵdirectiveInject,
   ɵɵgetInheritedFactory,
   ɵɵlistener
-} from "./chunk-37IT5BJX.js";
+} from "./chunk-FDQ5N2IH.js";
 
 // node_modules/@angular/forms/fesm2022/forms.mjs
 var _BaseControlValueAccessor = class _BaseControlValueAccessor {

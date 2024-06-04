@@ -19,7 +19,7 @@ import {
   ɵɵdirectiveInject,
   ɵɵprojection,
   ɵɵprojectionDef
-} from "./chunk-37IT5BJX.js";
+} from "./chunk-FDQ5N2IH.js";
 
 // node_modules/primeng/fesm2022/primeng-utils.mjs
 var ObjectUtils = class _ObjectUtils {
@@ -1032,8 +1032,9 @@ var TreeDragDropService = class _TreeDragDropService {
 export {
   ObjectUtils,
   UniqueComponentId,
+  zindexutils,
   PrimeNGConfig,
   PrimeTemplate,
   SharedModule
 };
-//# sourceMappingURL=chunk-5D6C2J2T.js.map
+//# sourceMappingURL=chunk-KVFVZLNE.js.map

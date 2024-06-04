@@ -57,7 +57,7 @@ import {
   ɵɵinject,
   ɵɵinjectAttribute,
   ɵɵstyleProp
-} from "./chunk-37IT5BJX.js";
+} from "./chunk-FDQ5N2IH.js";
 
 // node_modules/@angular/common/fesm2022/common.mjs
 var _DOM = null;
@@ -4852,6 +4852,7 @@ export {
   Location,
   parseCookieValue,
   NgClass,
+  NgForOf,
   NgIf,
   NgStyle,
   NgTemplateOutlet,
@@ -4871,4 +4872,4 @@ export {
    * License: MIT
    *)
 */
-//# sourceMappingURL=chunk-VDT3MPH5.js.map
+//# sourceMappingURL=chunk-B6W5VYHK.js.map
