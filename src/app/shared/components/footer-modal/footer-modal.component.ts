@@ -18,12 +18,6 @@ export class FooterModalComponent implements OnInit {
   ){
 
   }
-
-  textoPrueba:string = 'HOLA';
-
-  valorNumero: number = 10;
-
-
   ngOnInit(): void {
     console.log('FooterModalComponent::this.config.data',this.config.data);
   }
@@ -32,7 +26,7 @@ export class FooterModalComponent implements OnInit {
     this.ref.close();
   }
 
-  showBotonGuardar():boolean{
+  isModoVer():boolean{
     return this.config.data.typeModal != TYPE_MODAL_VER
   }
 

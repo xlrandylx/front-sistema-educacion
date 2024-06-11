@@ -5,6 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { ButtonModule } from 'primeng/button';
 import { setTimeout } from 'timers/promises';
 import { IAlumno } from '../../../core/models/IAlumno';
+import { DynamicDialogComponent, DynamicDialogConfig, DynamicDialogRef } from 'primeng/dynamicdialog';
 
 @Component({
   selector: 'app-alumnos-modal',
@@ -15,6 +16,10 @@ import { IAlumno } from '../../../core/models/IAlumno';
 })
 export class AlumnosModalComponent implements OnInit{
 
+  constructor(
+    private ref: DynamicDialogRef,
+    private config: DynamicDialogConfig
+  ){}
 
   alumno: IAlumno = {
     idAlumno: 0,
@@ -30,7 +35,10 @@ export class AlumnosModalComponent implements OnInit{
   };
 
   ngOnInit(): void {
-   
+   console.log('AlumnosModalComponent',this.config.data);
+   if(this.config.data.data){
+    this.alumno = this.config.data.data;
+   }
   }
 
 
