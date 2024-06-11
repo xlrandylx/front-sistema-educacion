@@ -6,6 +6,7 @@ import { ButtonModule } from 'primeng/button';
 import { setTimeout } from 'timers/promises';
 import { IAlumno } from '../../../core/models/IAlumno';
 import { DynamicDialogComponent, DynamicDialogConfig, DynamicDialogRef } from 'primeng/dynamicdialog';
+import { TYPE_MODAL_VER } from '../../../shared/utils/constants';
 
 @Component({
   selector: 'app-alumnos-modal',
@@ -41,7 +42,9 @@ export class AlumnosModalComponent implements OnInit{
    }
   }
 
+  isModoVer():boolean{
+    return this.config.data.typeModal == TYPE_MODAL_VER
+  }
 
 
-  
 }
