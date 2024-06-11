@@ -1,58 +1,52 @@
 {
-  "hash": "8850a936",
-  "configHash": "fdb7ea7a",
-  "lockfileHash": "2375d2ed",
-  "browserHash": "ca4360c7",
+  "hash": "a018c963",
+  "configHash": "69597deb",
+  "lockfileHash": "99a87426",
+  "browserHash": "84b8521d",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "681d95a5",
+      "fileHash": "ee1ced78",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "15776627",
+      "fileHash": "02a34008",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "d9eb6e0f",
+      "fileHash": "f5f250b6",
       "needsInterop": false
     },
     "primeng/button": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-button.mjs",
       "file": "primeng_button.js",
-      "fileHash": "dc0a2cbb",
+      "fileHash": "37b62fc9",
       "needsInterop": false
     },
     "primeng/inputtext": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-inputtext.mjs",
       "file": "primeng_inputtext.js",
-      "fileHash": "0877018a",
+      "fileHash": "7b482994",
       "needsInterop": false
     },
     "primeng/menubar": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-menubar.mjs",
       "file": "primeng_menubar.js",
-      "fileHash": "71513101",
-      "needsInterop": false
-    },
-    "primeng/api": {
-      "src": "../../../../../node_modules/primeng/fesm2022/primeng-api.mjs",
-      "file": "primeng_api.js",
-      "fileHash": "dca8a54e",
+      "fileHash": "9d6e6d44",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-6DSGOYER": {
-      "file": "chunk-6DSGOYER.js"
+    "chunk-UXS656NS": {
+      "file": "chunk-UXS656NS.js"
     },
-    "chunk-54NYK3MT": {
-      "file": "chunk-54NYK3MT.js"
+    "chunk-KVFVZLNE": {
+      "file": "chunk-KVFVZLNE.js"
     },
     "chunk-7UW223BW": {
       "file": "chunk-7UW223BW.js"

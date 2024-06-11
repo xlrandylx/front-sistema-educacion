@@ -4,7 +4,7 @@ import {
   DomHandler,
   Ripple,
   RippleModule
-} from "./chunk-6DSGOYER.js";
+} from "./chunk-UXS656NS.js";
 import {
   ObjectUtils,
   PrimeNGConfig,
@@ -12,7 +12,7 @@ import {
   SharedModule,
   UniqueComponentId,
   zindexutils
-} from "./chunk-54NYK3MT.js";
+} from "./chunk-KVFVZLNE.js";
 import {
   RouterLink,
   RouterLinkActive,
